@@ -1,2 +1,2 @@
 # FruitJanissary
- JavaFX ile geliştirdiğim fruit ninja oyunu 
+ JavaFX ile geliştirdiğim bir oyun projesidir.
